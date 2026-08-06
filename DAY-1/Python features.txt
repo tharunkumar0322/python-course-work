@@ -1,0 +1,18 @@
+Python features:
+1.easy to learn and read
+2.dynamic type
+3.integrated 
+4.large standard library
+5.platform independent
+6.support multi-tasking
+7.high level language 
+8.open source
+9.supports ai&ml
+10.oops
+
+OOPS 
+1.class-its a blueprint and combination of methods and attributes 
+2.objects- instances of a class
+3.polymorphism- many forms
+4. Inheritance - acquiring  properties from parent class
+
