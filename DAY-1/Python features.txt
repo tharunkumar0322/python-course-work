@@ -1,4 +1,11 @@
+Definition of Python
+-----------------------
+
+Python is a high-level, interpreted, general-purpose programming language that is easy to learn and read.
+It supports object-oriented, procedural, and functional programming and is widely used for web development, data science, artificial intelligence, automation, and software development.
+
 Python features:
+---------------------
 1.easy to learn and read
 2.dynamic type
 3.integrated 
@@ -10,9 +17,23 @@ Python features:
 9.supports ai&ml
 10.oops
 
-OOPS 
-1.class-its a blueprint and combination of methods and attributes 
-2.objects- instances of a class
-3.polymorphism- many forms
-4. Inheritance - acquiring  properties from parent class
+OOPs – Object-Oriented Programming
+-----------------------------------
+Definition
 
+OOPs (Object-Oriented Programming) is a programming approach that organizes a program using classes and objects. It helps in developing programs that are reusable, secure, easy to maintain, and easy to understand.
+
+Characteristics of OOPs
+-------------------------------
+
+Class – A class is a blueprint or template used to create objects.
+
+Object – An object is an instance of a class that represents a real-world entity.
+
+Encapsulation – It combines data and methods into a single unit and protects the data from direct access.
+
+Abstraction – It hides unnecessary implementation details and shows only the important information.
+
+Inheritance – It allows one class to acquire the properties and methods of another class.
+
+Polymorphism – It means one name, many forms, where the same method or operation can perform different tasks.
