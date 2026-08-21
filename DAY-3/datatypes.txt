@@ -1,0 +1,51 @@
+Python Data Types
+
+A data type specifies the type of value that a variable can store. Python provides several built-in data types for storing different kinds of data.
+
+1. Numeric Data Types
+Used to store numerical values.
+int – Stores whole numbers such as 10, 25, -5.
+float – Stores decimal numbers such as 10.5, 3.14.
+complex – Stores complex numbers such as 3+4j.
+
+
+2. Boolean Data Type
+bool – Represents one of two values: True or False.
+It is mainly used for conditions and logical operations.
+
+
+3. String Data Type
+str – Used to store text or a sequence of characters.
+Strings can contain letters, numbers, symbols, and spaces.
+
+Example: "Hello Python"
+
+
+
+4. Sequence Data Types
+Sequence types store multiple values in an ordered manner.
+
+list – Ordered and changeable collection of elements.
+
+tuple – Ordered and unchangeable collection of elements.
+
+range – Represents a sequence of numbers, commonly used in loops.
+
+
+5. Set Data Type
+set – Stores a collection of unique and unordered elements.
+Duplicate values are automatically removed.
+
+Example: {1, 2, 3}
+
+
+6. Dictionary Data Type
+dict – Stores data in key-value pairs.
+Each key is used to access its corresponding value.
+
+Example: {"name": "John", "age": 20}
+
+
+7. None Type
+NoneType represents the absence of a value.
+The keyword None is used when a variable has no value.
