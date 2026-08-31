@@ -1,0 +1,46 @@
+Conditional Statements:
+------------------------
+conditional statements are decision-making statements that execute different blocks of code
+depending on whether a specified condition evaluates to True or False.
+
+They allow programs to make decisions and perform different actions based on different
+situations.
+
+1. if Statement
+-------------------
+Syntax:-
+if condition:
+    statements
+
+2. if-else Statement
+----------------------
+Syntax:-
+if condition:
+    statements
+else:
+    statements
+
+3. if-elif-else Statement
+---------------------------
+Syntax:-
+if condition1:
+    statements
+elif condition2:
+    statements
+elif condition3:
+    statements
+else:
+    statements
+
+
+4. Nested if Statement
+-----------------------
+Syntax:-
+if condition1:
+    if condition2:
+        statements
+    else:
+        statements
+
+else:
+    statements
